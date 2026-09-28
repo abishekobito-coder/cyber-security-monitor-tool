@@ -1,0 +1,3 @@
+Timestamp,Target Host,IP Address,Host Status,Response Time (ms),Packet Loss (%),Open Ports,Observation
+26-09-2026 19:30:25,8.8.8.8,8.8.8.8,UP,758.94,0.0,None,Host is UP with latency of 758.94 ms and 0.0% packet loss. No tested ports were OPEN. All queried ports are CLOSED/FILTERED. Network stability appears optimal with 0% packet loss.
+28-09-2026 05:35:00,google.com,142.250.122.138,142.250.122.138; 142.250.122.100,UP,25.4,0.0,80,Host is UP with latency of 25.4 ms and 0.0% packet loss. Reachable open ports/services: Port 80 (HTTP). Network stability appears optimal with 0% packet loss.

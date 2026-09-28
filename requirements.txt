@@ -1,0 +1,16 @@
+# Cybersecurity Network Monitoring System - Requirements
+# =======================================================
+# This project uses Python 3 standard libraries only.
+# No external third-party packages (pip dependencies) are required.
+# 
+# Standard libraries used:
+# - socket      (DNS resolution & TCP port scanning)
+# - subprocess  (Linux ICMP ping command execution)
+# - time        (Latency & response time measurement)
+# - datetime    (Timestamping operations)
+# - csv         (CSV security report export)
+# - platform   (OS detection for Windows/Kali Linux compatibility)
+# - re         (Regex parsing for ping output)
+# - os / sys   (File system & process management)
+
+python_version >= 3.6

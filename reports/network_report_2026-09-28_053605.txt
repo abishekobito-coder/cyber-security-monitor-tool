@@ -1,0 +1,20 @@
+====================================================
+         CYBERSECURITY NETWORK MONITOR REPORT       
+====================================================
+Target Host     : google.com
+IP Address      : 142.250.122.138
+EXTRACTED IP LIST (Line by Line):
+  - 142.250.122.138
+  - 142.250.122.100
+Host Status     : UP
+Response Time   : 25.4 ms
+Packet Loss     : 0.0%
+----------------------------------------------------
+PORT STATUS DETAILS:
+  - Port 80    (HTTP): OPEN
+----------------------------------------------------
+Timestamp       : 28-09-2026 05:35:00
+----------------------------------------------------
+SECURITY OBSERVATION:
+Host is UP with latency of 25.4 ms and 0.0% packet loss. Reachable open ports/services: Port 80 (HTTP). Network stability appears optimal with 0% packet loss.
+====================================================
